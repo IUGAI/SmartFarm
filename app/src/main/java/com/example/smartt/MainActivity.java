@@ -5,6 +5,7 @@ import androidx.constraintlayout.widget.ConstraintLayout;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
@@ -25,6 +26,7 @@ NavigationView dehaze;
        buttonFarm = findViewById(R.id.button3);
        buttonhome = findViewById(R.id.button2);
        dehaze = (NavigationView) findViewById(R.id.dehaze);
+        Log.d("TAG", "Test");
        dehaze.setOnClickListener(new View.OnClickListener() {
            @Override
            public void onClick(View view) {
