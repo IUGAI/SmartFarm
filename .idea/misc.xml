@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.11" />
+        <entry key="app/src/main/res/drawable-v24/thumb.xml" value="0.1285" />
+        <entry key="app/src/main/res/drawable-v24/track.xml" value="0.1285" />
+        <entry key="app/src/main/res/drawable/bacgroundofswitch3.xml" value="0.1525" />
+        <entry key="app/src/main/res/drawable/backgroundlayout.xml" value="0.1525" />
+        <entry key="app/src/main/res/drawable/backgroundofswitch.xml" value="0.1525" />
+        <entry key="app/src/main/res/drawable/backgroundofswitch2.xml" value="0.1525" />
+        <entry key="app/src/main/res/drawable/backgroundswitch4.xml" value="0.1525" />
+        <entry key="app/src/main/res/drawable/barnsample2.xml" value="0.1525" />
+        <entry key="app/src/main/res/drawable/buttno3.xml" value="0.1925" />
+        <entry key="app/src/main/res/drawable/button.xml" value="0.125" />
+        <entry key="app/src/main/res/drawable/button2.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/buttonoff.xml" value="0.1525" />
+        <entry key="app/src/main/res/drawable/buttonon.xml" value="0.1525" />
+        <entry key="app/src/main/res/drawable/custimseebar.xml" value="0.1525" />
+        <entry key="app/src/main/res/drawable/gradientbackground.xml" value="0.1525" />
+        <entry key="app/src/main/res/drawable/layout.xml" value="0.1925" />
+        <entry key="app/src/main/res/drawable/newbackground.xml" value="0.1525" />
+        <entry key="app/src/main/res/drawable/progressbar.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/progressbargreen.xml" value="0.1425" />
+        <entry key="app/src/main/res/drawable/progressbarred.xml" value="0.1425" />
+        <entry key="app/src/main/res/drawable/progressbaryellow.xml" value="0.1425" />
+        <entry key="app/src/main/res/drawable/round1.xml" value="0.1525" />
+        <entry key="app/src/main/res/drawable/round2.xml" value="0.1525" />
+        <entry key="app/src/main/res/drawable/style.xml" value="0.1525" />
+        <entry key="app/src/main/res/drawable/thumble.xml" value="0.1525" />
+        <entry key="app/src/main/res/drawable/thumbleseek.xml" value="0.1525" />
+        <entry key="app/src/main/res/drawable/thumbupdt.xml" value="0.1525" />
+        <entry key="app/src/main/res/drawable/trackupdt.xml" value="0.1525" />
+        <entry key="app/src/main/res/layout/activity_barn.xml" value="0.30663604736328126" />
+        <entry key="app/src/main/res/layout/activity_barn_settings.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_farm_settings.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_farm_settings_upd.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_get_sensors.xml" value="0.17734375000000002" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_smart_farm.xml" value="0.2229141235351563" />
+        <entry key="app/src/main/res/layout/activity_smart_farm_upd.xml" value="0.2777664184570313" />
+        <entry key="app/src/main/res/layout/activity_smart_home.xml" value="0.23489837646484377" />
+        <entry key="app/src/main/res/layout/applogin.xml" value="0.2562149047851563" />
+        <entry key="app/src/main/res/layout/barnsample.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/layout/dialog.xml" value="0.2953125" />
+        <entry key="app/src/main/res/layout/sensors.xml" value="0.25" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
